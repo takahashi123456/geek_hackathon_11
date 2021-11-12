@@ -10,6 +10,9 @@ https://twitter.com/geek_pjt/status/1457258909672955904?s=20
 
 
 サポーターズ主催のハッカソンにて作成いたしましたが何と入賞することができました！！！ありがとうございます！！
+課題への取り組みのプロセスを大きく評価していただけました。
+プレゼンスライドは以下になっています。
+https://docs.google.com/presentation/d/1YBebu3Tf8K9sl9LGdX3IT1meGbwoFZ0QWPJxIOlQPuo/edit?usp=sharing
 
 ## Getting Started
 
